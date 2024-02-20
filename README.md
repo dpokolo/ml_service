@@ -5,7 +5,7 @@
 
  The model is a simple Logistic Regression iris classifier. You can replace it with model of your choice.
 
- # Usage""
+ # Usage
 
  Run the project with the following command:
 
